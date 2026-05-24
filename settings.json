@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "Crownwars-Sv9m.aternos.me:17295",
+    "port": 17295,
     "version": "1.21.1"
   },
   "position": {
